@@ -1,4 +1,4 @@
-# Ionic Stipe Setup
+# Ionic Stripe Setup
 
 This article, I'm going to guide you how to setup stripe for ionic..
 
