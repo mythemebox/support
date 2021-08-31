@@ -11,20 +11,20 @@ As a first step, login to your [firebase](https://console.firebase.google.com/) 
 
 ### Step 2: Adding iOS Platform on Firebase
 
-![ios setup](./assets/images/add-platform.png)
+![ios setup](../assets/images/add-platform.png)
 
 ### Step 3: Register your iOS app
 
-![ios setup](./assets/images/register-android-app.png)
+![ios setup](../assets/images/register-android-app.png)
 
 ### Step 4: Download Service File
 
-![ios setup](./assets/images/download-download-ios-service-file.png)
+![ios setup](../assets/images/download-download-ios-service-file.png)
 
 ### Step 5: Go back to console
 
-![ios setup](./assets/images/ios-goto-console.png)
+![ios setup](../assets/images/ios-goto-console.png)
 
 ### Step 6: Place your file inside project folder
 
-![](./assets/images/place-service-files.png)
+![](../assets/images/place-service-files.png)
