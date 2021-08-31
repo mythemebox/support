@@ -11,20 +11,20 @@ As a first step, login to your [firebase](https://console.firebase.google.com/) 
 
 ### Step 2: Adding Android Platform on Firebase
 
-![](./assets/images/add-platform.png)
+![android setup](./assets/images/add-platform.png)
 
 ### Step 3: Register your android app
 
-![](./assets/images/register-android-app.png)
+![android setup](./assets/images/register-android-app.png)
 
 ### Step 4: Download Service File
 
-![](./assets/images/download-download-android-service-file.png)
+![android setup](./assets/images/download-download-android-service-file.png)
 
 ### Step 5: Go back to console
 
-![](./assets/images/android-goto-console.png)
+![android setup](./assets/images/android-goto-console.png)
 
 ### Step 6: Place your file inside project folder
 
-![](./assets/images/place-service-files.png)
+![android setup](./assets/images/place-service-files.png)
