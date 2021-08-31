@@ -19,7 +19,7 @@ As a first step, login to your [firebase](https://console.firebase.google.com/) 
 
 ### Step 4: Download Service File
 
-![ios setup](../assets/images/download-download-ios-service-file.png)
+![ios setup](../assets/images/download-ios-service-file.png)
 
 ### Step 5: Go back to console
 

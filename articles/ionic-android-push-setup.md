@@ -19,7 +19,7 @@ As a first step, login to your [firebase](https://console.firebase.google.com/) 
 
 ### Step 4: Download Service File
 
-![android setup](../assets/images/download-download-android-service-file.png)
+![android setup](../assets/images/download-android-service-file.png)
 
 ### Step 5: Go back to console
 
