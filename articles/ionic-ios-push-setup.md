@@ -15,6 +15,9 @@ As a first step, login to your [firebase](https://console.firebase.google.com/) 
 
 ### Step 3: Register your iOS app
 
+- Package name can be found inside config.xml
+- You need to update your own package name like (com.yourcompanyname.yourappname)
+
 ![ios setup](../assets/images/register-android-app.png)
 
 ### Step 4: Download Service File

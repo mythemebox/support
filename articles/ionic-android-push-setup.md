@@ -19,6 +19,10 @@ As a first step, login to your [firebase](https://console.firebase.google.com/) 
 
 ### Step 4: Download Service File
 
+- Package name can be found inside config.xml
+- You need to update your own package name like (com.yourcompanyname.yourappname)
+- SHA 1 Genereate : https://developers.google.com/android/guides/client-auth
+
 ![android setup](../assets/images/download-android-service-file.png)
 
 ### Step 5: Go back to console
